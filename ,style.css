@@ -1,0 +1,94 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    padding: 4px;
+    margin: 0px 0px 0px 0px;
+    height: 110px;
+    width: 220px;
+    display: inline-flex;
+    white-space-collapse: collapse;
+    align-items: flex-end;
+    justify-content: flex-end;
+    color: rgb(229, 246, 247);
+    font-style: normal;
+    font-weight: bold; 
+}
+h2{
+    color: white;
+    background-color: black;
+    width: fit-content;
+    margin-left: 35% ;
+    border-radius: 5px;
+    padding:0px;
+}
+.back{
+    position: absolute;
+    top: 15px;
+    left: 5px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.div1{
+    background-color: #f6e58d;
+}
+.div2{
+    background-color: #ffbe76;
+}
+.div3{
+    background-color: #ff7979;
+}
+.div4{
+    background-color: #badc58;
+}
+.div5{
+    background-color: #dff9fb;
+}
+.div6{
+    background-color: #f9ca24;
+}
+.div7{
+    background-color: #f0932b;
+}
+.div8{
+    background-color: #eb4d4b;
+}
+.div9{
+    background-color: #6ab04c;
+}
+.div10{
+    background-color: #c7ecee;
+}
+.div11{
+    background-color: #7ed6df;
+}
+.div12{
+    background-color: #e056fd;
+}
+.div13{
+    background-color: #686de0;
+}
+.div14{
+    background-color: #30336b;
+}
+.div15{
+    background-color: #95afc0;
+}
+.div16{
+    background-color: #22a6b3;
+}
+.div17{
+    background-color: #be2edd;
+}
+.div18{
+    background-color: #4834d4;
+}
+.div19{
+    background-color: #130f40;
+}
+.div20{
+    background-color: #535c68;
+}
+
